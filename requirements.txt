@@ -19,7 +19,6 @@ urllib3
 uvloop
 flask
 gunicorn
-imghdr
 youtube-search-python
 yt-dlp
 git+https://github.com/KurimuzonAkuma/pyrogram
